@@ -5,7 +5,7 @@ a simple nodejs + express file uploader
 
 This is just a very simple example of using Express and Multer to upload files
 
-Getting started
+lets Get started
 
 git clone https://github.com/NotRealPaz/simple-uploader-file.git
 
